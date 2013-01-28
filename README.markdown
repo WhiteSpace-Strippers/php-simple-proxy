@@ -16,16 +16,16 @@ Visit the [project page](http://benalman.com/projects/php-simple-proxy/) for mor
 This working example, complete with fully commented code, illustrates one way
 in which this PHP script can be used.
 
-[http://benalman.com/code/projects/php-simple-proxy/examples/simple/](http://benalman.com/code/projects/php-simple-proxy/examples/simple/)  
+[http://benalman.com/code/projects/php-simple-proxy/examples/simple/](http://benalman.com/code/projects/php-simple-proxy/examples/simple/)
 
 
 ## Release History ##
 
-1.6 - (1/24/2009) Now defaults to JSON mode, which can now be changed to native mode by specifying ?mode=native. Native and JSONP modes are disabled by default because of possible XSS vulnerability issues, but are configurable in the PHP script along with a url validation regex.  
+1.6 - (1/24/2009) Now defaults to JSON mode, which can now be changed to native mode by specifying ?mode=native. Native and JSONP modes are disabled by default because of possible XSS vulnerability issues, but are configurable in the PHP script along with a url validation regex.
 1.5 - (12/27/2009) Initial release
 
 
 ## License ##
-Copyright (c) 2010 "Cowboy" Ben Alman  
-Dual licensed under the MIT and GPL licenses.  
+Copyright (c) 2010 "Cowboy" Ben Alman
+Dual licensed under the MIT and GPL licenses.
 [http://benalman.com/about/license/](http://benalman.com/about/license/)
